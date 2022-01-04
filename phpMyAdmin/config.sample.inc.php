@@ -152,6 +152,6 @@ $cfg['SaveDir'] = '';
  * You can find more configuration options in the documentation
  * in the doc/ folder or at <https://docs.phpmyadmin.net/>.
  */
-$cfg['Servers'][$i]['user'] = 'lsn_devy2k02';
+$cfg['Servers'][$i]['user'] = 'root';
 $cfg['Servers'][$i]['password'] = 'lsnworks2021';
 
